@@ -1,0 +1,9 @@
+.vscode
+.idea
+.zed
+
+tests/doc/test.pdf
+template/main.pdf
+
+# Remove this when test finally work
+tests/**/out
